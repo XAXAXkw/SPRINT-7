@@ -1,0 +1,23 @@
+{
+  "name": "sprint7",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@hyper.fun/antd-icon-exclamation-circle-filled": "^1.3.0",
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.10.2",
+    "bootstrap-vue": "^2.23.1",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.3"
+  }
+}
